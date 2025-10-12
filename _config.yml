@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "唐健"
 description              : "电磁无损检测"
+title                    : "曾荣高"
+description              : "先进材料制备 (电弧增材制造)"
 repository               : "kuaisk/kuaisk.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,14 +24,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "唐健"
+  name             : "曾荣高"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "华中科技大学"
   location         : "湖北 武汉"
   employer         : #"Hefei General Machinery Research Institute"
+  bio              : "曼彻斯特大学"
+  location         : "湖南 长沙"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "tangj@hust.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : 
+  email            : "ronggao.zeng5538@outlook.com"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -38,6 +47,7 @@ author:
   facebook         :
   foursquare       :
   github           : "tangjyan"
+  github           : "kuaisk"
   google_plus      :
   keybase          :
   instagram        :
@@ -46,6 +56,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0009-0000-6578-801X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
