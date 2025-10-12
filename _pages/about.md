@@ -34,6 +34,8 @@ redirect_from:
 # 🎓 学历
 - *2024.09 - 2025.09*, <a href="https://www.manchester.ac.uk"><img class="svg" src="/images/UoM_logo.svg" width="23pt"></a> 曼彻斯特大学 科学与工程学院, 英国曼彻斯特, 理学硕士学位 
 - *2022.09 - 2024.06*, <a href="https://www.tees.ac.uk"><img class="svg" src="/images/TU_logo.svg" width="20pt"></a> 提赛德大学 机械工程学院, 英国米德尔斯堡, 工学学士学位
+- *2024.09 - 2025.09*, <a href="https://www.manchester.ac.uk"><img class="jpg" src="/images/UoM_logo.jpg" width="23pt"></a> 曼彻斯特大学 科学与工程学院, 英国曼彻斯特, 理学硕士学位 
+- *2022.09 - 2024.06*, <a href="https://www.tees.ac.uk"><img class="webp" src="/images/TU_logo.webp" width="20pt"></a> 提赛德大学 机械工程学院, 英国米德尔斯堡, 工学学士学位
  
 <span class='anchor' id='-lwzl'></span>
 
