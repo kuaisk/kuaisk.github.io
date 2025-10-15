@@ -69,13 +69,9 @@ redirect_from:
 -	基于生态设计的零电子废弃物设备, 2024
   [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EXKJi222sBdLtw3rup-FCIAB5aDgBB2uZBvauyLOEa6dxg)
 
-</div>
-
 
 -	高性能耐高温航空发动机涡轮叶片, 2024
   [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EVM0s0HmX4BOrnlRCaMRPwQB98eoo-Kp0LSh0ge5GahHTw)
-
-</div>
 
 
 -	三维还原氧化石墨烯电极的构建及其高性能储能, 2025
@@ -97,6 +93,7 @@ redirect_from:
 # 🏛️ 校园经历
 - *2023.05*, 参观访问日产汽车制造工程，英国桑德兰
 - *2023.02-2023.03*, 欧洲空间局可持续智囊团，西班牙马德里
+
 
 
 
