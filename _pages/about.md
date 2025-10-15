@@ -48,11 +48,11 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/A380.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	A380客机气动性分析与翼型优化研究
+  [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/Eb8-lNzOjDpHv6tLsZkCPLABoaGoQ3RTP3rpY1YcxHtuVA)
 
 </div>
 </div>
@@ -82,6 +82,7 @@ redirect_from:
 # 🏛️ 校园经历
 - *2023.05*, 参观访问日产汽车制造工程，英国桑德兰
 - *2023.02-2023.03*, 欧洲空间局可持续智囊团，西班牙马德里
+
 
 
 
