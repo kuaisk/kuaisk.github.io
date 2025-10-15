@@ -42,7 +42,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/WRJ.png.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	[[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EahnucXSh55Bgd3FhmNVv9MByBFTKrIzz-HU3-6n29H0dw)
+-	无人机设计与原型测试
+  [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EahnucXSh55Bgd3FhmNVv9MByBFTKrIzz-HU3-6n29H0dw)
 
 </div>
 </div>
@@ -81,6 +82,7 @@ redirect_from:
 # 🏛️ 校园经历
 - *2023.05*, 参观访问日产汽车制造工程，英国桑德兰
 - *2023.02-2023.03*, 欧洲空间局可持续智囊团，西班牙马德里
+
 
 
 
