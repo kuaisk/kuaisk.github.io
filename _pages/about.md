@@ -43,7 +43,8 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	无人机设计与原型测试
-  [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EahnucXSh55Bgd3FhmNVv9MByBFTKrIzz-HU3-6n29H0dw)
+  [[快速预览]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/Eaq4oRFYDY9HlUU2jjCkwkUBCUnFd84oz3vpZS6HVyq2lA?e=hbDmGw)
+ 	[[原文全文]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/ETXWAhPGCz5ChGzLrUgboNwBXV8f82YR3qt3ws6RYm7T2w?e=nNSDbK) 
 
 </div>
 </div>
@@ -52,7 +53,8 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	A380客机气动性分析与翼型优化研究
-  [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/Eb8-lNzOjDpHv6tLsZkCPLABoaGoQ3RTP3rpY1YcxHtuVA)
+  [[快速预览]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/ER6XLfeWQ95Fn_NjomT02SMB3YltgA_NcqhIwWx0pyHT5Q?e=z90mXg)
+ 	[[原文全文]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/EY397RxgSodLg67ni4A9UwsBGKrGqL7AGGXWw6vZmCLfLA?e=NZl61U) 
 
 </div>
 </div>
@@ -61,21 +63,22 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	C465不锈钢电弧增材制造研究
-  [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EbIhikOKladAmR2ivSXRBUQBCZEsQamzqDbt_gyJ1Z53oQ)
+  [[快速预览]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/EczITzUY_LJIhQ3ZHzWVRA8B8W_BGfK0FzRi_11dF9Kq6Q?e=dmWHbQ)
+ 	[[原文全文]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/EY1_XFp-_q9GqCex_OjdImsBdj_p3se0XgO7FiQrXH8CaA?e=jNjRQr) 
 
 </div>
 </div>
 
 -	基于生态设计的零电子废弃物设备, 2024
-  [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EXKJi222sBdLtw3rup-FCIAB5aDgBB2uZBvauyLOEa6dxg)
+  [[预览]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/EUkl98V3f8xFguvWOLNc9lQBIq8jMbECZbp5cbgjO1XJtg?e=B492fm)
 
 
 -	高性能耐高温航空发动机涡轮叶片, 2024
-  [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EVM0s0HmX4BOrnlRCaMRPwQB98eoo-Kp0LSh0ge5GahHTw)
+  [[预览]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/EftLk78OPf5Pr2qrdIyBn7EB5yX3S4kW3hsNLzfU_tP6RA?e=DV14GL)
 
 
 -	三维还原氧化石墨烯电极的构建及其高性能储能, 2025
-  [[预览]](https://1drv.ms/b/c/FC5A304C9672FE6B/EeDUaBdLKK1PgJCEOBohiHsBt6H98H7uPFJ1xEj0BjUS5Q)
+  [[预览]](https://livemanchesterac-my.sharepoint.com/:b:/g/personal/ronggao_zeng_postgrad_manchester_ac_uk/ESEE3SAgWPxAiuJjGQ6siY0B-gmkAFXS2EhZOtVC9wZpyg?e=8WyJnJ)
 
 
 <span class='anchor' id='-ryjx'></span>
@@ -93,6 +96,7 @@ redirect_from:
 # 🏛️ 校园经历
 - *2023.05*, 参观访问日产汽车制造工程，英国桑德兰
 - *2023.02-2023.03*, 欧洲空间局可持续智囊团，西班牙马德里
+
 
 
 
